@@ -21,3 +21,7 @@ button {
 button:hover {
   background-color: #2980b9;
 }
+.modo-oscuro {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
